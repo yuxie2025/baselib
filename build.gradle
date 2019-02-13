@@ -1,4 +1,6 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'//this
+group='com.github.yuxie2025'//this
 def androidCf = rootProject.ext.android
 
 android {
