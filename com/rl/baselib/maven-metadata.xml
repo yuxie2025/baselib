@@ -3,7 +3,7 @@
   <groupId>com.rl</groupId>
   <artifactId>baselib</artifactId>
   <versioning>
-    <release>1.0.10</release>
+    <release>1.0.11</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.01</version>
@@ -16,7 +16,8 @@
       <version>1.0.08</version>
       <version>1.0.09</version>
       <version>1.0.10</version>
+      <version>1.0.11</version>
     </versions>
-    <lastUpdated>20190321013505</lastUpdated>
+    <lastUpdated>20190321020958</lastUpdated>
   </versioning>
 </metadata>
